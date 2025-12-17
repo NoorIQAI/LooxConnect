@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: NoorIQ Loox Connect (nooriq-loox-connect)
+url: 'https://github.com/NoorIQAI/LooxConnect'
+maintainer: NoorIQ LLC F.Z. <company@nooriq.ai>
