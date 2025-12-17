@@ -1,0 +1,15 @@
+name: "Loox Connect"
+description: "Loox Connect"
+version: "0.3.0"
+slug: "loox-connect"
+arch:
+  - amd64
+  - aarch64
+startup: services
+boot: auto
+init: false
+homeassistant_api: true
+hassio_api: true
+hassio_role: admin
+schema:
+  iothub_device_connection_string: password
