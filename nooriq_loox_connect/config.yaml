@@ -1,6 +1,6 @@
 name: "NoorIQ Loox Connect"
 description: "NoorIQ Loox Connect"
-version: "0.3.1"
+version: "0.3.2"
 slug: "nooriq-loox-connect"
 arch:
   - amd64
@@ -14,3 +14,4 @@ hassio_role: admin
 schema:
 
   iothub_device_connection_string: password
+
